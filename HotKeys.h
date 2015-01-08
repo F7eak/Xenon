@@ -1,6 +1,6 @@
 #pragma once
 
-#define VK_MapHack      VK_F5
+#define VK_MapHack      VK_VK_MENU+VK_INSERT
 #define VK_FogOfWar     VK_F6
 // #define VK_DelayReducer VK_F7
 #define VK_WoodCutter   VK_F7
